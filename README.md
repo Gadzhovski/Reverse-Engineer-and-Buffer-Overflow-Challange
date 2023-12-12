@@ -1,5 +1,5 @@
 
-# Buffer Overflow Exploit for gradeGPT.x86
+# Buffer Overflow Exploit Example
 
 This Python script is developed as part of a coursework for buffer overflow. It demonstrates the exploitation of a buffer overflow vulnerability in the `gradeGPT.x86` executable.
 
