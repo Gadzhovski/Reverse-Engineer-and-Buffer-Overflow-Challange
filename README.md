@@ -9,9 +9,9 @@ This script demonstrates the exploitation of a buffer overflow vulnerability in 
 grade_hack.py: Grade File Decryption
 This script is designed to decrypt and format the contents of an encrypted grade.txt file. It employs multiple techniques to process different encryption levels within the file:
 
-- **Level One decryption uses direct ASCII interpretation.
-- **Level Two involves reversing a transformation and filtering for printable characters.
-- **Level Three uses XOR decryption with a user ID.
+- Level One decryption uses direct ASCII interpretation.
+- Level Two involves reversing a transformation and filtering for printable characters.
+- Level Three uses XOR decryption with a user ID.
 The decrypted grades are displayed with color-coded hex representation and explanations. This script begins with an ASCII art header and includes ANSI color codes for output formatting.
 
 ## Introduction
@@ -22,8 +22,8 @@ The `grade_hack.py' script is complementary to` `BOF.py`, focusing on the decryp
 
 Key vulnerabilities identified in the executable include:
 
-- **Buffer Overflow: Utilizes a vulnerable gets function and lacks bounds checking for indirect function calls.
-- **Encryption Handling: Demonstrates handling and reversing custom encryption methods embedded within binary files.
+- Buffer Overflow: Utilizes a vulnerable gets function and lacks bounds checking for indirect function calls.
+- Encryption Handling: Demonstrates handling and reversing custom encryption methods embedded within binary files.
 
 ## Exploit Script
 
