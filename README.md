@@ -31,7 +31,8 @@ The BOF.py script constructs a payload that combines a buffer fill, the address 
 
 ![bof](https://github.com/Gadzhovski/BufferOverflowExample/assets/93713208/96844144-fa86-4329-9f43-e0012d9448a0)
 
-The grade_hack.py 
+grade_hack.py:
+
 
 ## Disclaimer
 
