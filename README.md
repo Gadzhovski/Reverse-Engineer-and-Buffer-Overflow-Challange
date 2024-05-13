@@ -33,6 +33,7 @@ The BOF.py script constructs a payload that combines a buffer fill, the address 
 
 grade_hack.py:
 
+![hack](https://github.com/Gadzhovski/Reverse-Engineer-and-Buffer-Overflow-Challange/blob/main/grade_hack.png)
 
 ## Disclaimer
 
