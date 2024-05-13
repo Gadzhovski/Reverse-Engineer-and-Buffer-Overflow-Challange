@@ -42,7 +42,3 @@ This script is for educational purposes only and demonstrates the importance of 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Credits
-
-Project developed by Radoslav Gadzhovski as part of coursework for the University of Greenwich.
